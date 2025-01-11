@@ -1,6 +1,7 @@
 // What we will learn today:-
 // - Word vs Keyword:-
 // - var const let
+// - their differences
 // - hoisting
 // - types in JS
 // - conditionals
