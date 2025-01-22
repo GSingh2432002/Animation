@@ -15,7 +15,7 @@ This project is built using:
 - **JavaScript**
 - **React.js**
 - **Three.js**
-- **G-SAP**
+- **GSAP**
 
 ## Getting Started
 To get a local copy up and running, follow these steps.
